@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+flask
+flask-cors
+pyaudio
+firebase_admin
+torch
